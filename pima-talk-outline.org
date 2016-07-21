@@ -1,0 +1,253 @@
+* Re:source--Broke Artists and Free Software 		  
+* overview of three questions
+* overview of three questions
+** 1. what are the terms and what do they mean?
+* overview of three questions
+** 1. what are the terms and what do they mean?
+** 2. who coined these terms and what do these people believe?
+* overview of three questions
+** 1. what are the terms and what do they mean?
+** 2. who coined these terms and what do these people believe?
+** 3. where do we as artists come into play?
+* what is "free" and what is "open"?
+* what is "free?" 
+* what is "free?" 
+** Free speech vs. free beer
+* what is "open?"
+* what is "open?"
+** open "source"
+* what is "open?"
+** open "source"
+** "source code"
+* which should we use?
+* which should we use--it's a personal decision;
+- based on context
+* which should we use--it's a personal decision;
+- based on context
+- "Free and Open Source Software" or FOSS is a--slightly
+  funny--catchall, as is FLOSS
+* which should we use--it's a personal decision;
+- based on context
+- "Free and Open Source Software" or FOSS is an--slightly
+  funny--catchall, as is FLOSS
+- or really don't stress it; just know some background about the terms
+* Background--Major Figures and Forces
+* Free Software Foundation and Richard Stallman
+* Free Software Foundation and Richard Stallman
+[[file:~/Downloads/saintignucius.jpg]]
+* Free Software Foundation and Richard Stallman
+** understanding the status of free software in the 70s and 80s
+* Free Software Foundation and Richard Stallman
+** understanding the status of free software in the 70s and 80s
+** - began as "open" and shared
+* Free Software Foundation and Richard Stallman
+** understanding the status of free software in the 70s and 80s
+** - began as "open" and shared
+** - became closed and proprietary
+* Free Software Foundation and Richard Stallman
+** four essential freedoms
+* Free Software Foundation and Richard Stallman
+** four essential freedoms
+ 0. to run the program
+* Free Software Foundation and Richard Stallman
+** four essential freedoms
+ 0. to run the program
+ 1. to study and change the program in source code form
+* Free Software Foundation and Richard Stallman
+** four essential freedoms
+ 0. to run the program
+ 1. to study and change the program in source
+ 2. to redistribute exact copies
+* Free Software Foundation and Richard Stallman
+** four essential freedoms
+ 0. to run the program
+ 1. to study and change the program in source
+ 2. to redistribute exact copies
+ 3. to distribute modified versions
+* Open Source Institute (OSI)
+
+* Open Source Institute (OSI)
+** 10 Principles
+* Open Source Institute (OSI)
+** 10 Principles
+** which I'll spare you
+* Open Source Institute (OSI)
+** 10 Principles
+** which I'll spare you--sort of
+ 1. Free Redistribution: The license shall not restrict any party from selling or giving away the software as a component of an aggregate software distribution containing programs from several different sources. The license shall not require a royalty or other fee for such sale.
+
+ 2. Source Code: The program must include source code, and must allow distribution in source code as well as compiled form. Where some form of a product is not distributed with source code, there must be a well-publicized means of obtaining the source code for no more than a reasonable reproduction cost preferably, downloading via the Internet without charge. The source code must be the preferred form in which a programmer would modify the program. Deliberately obfuscated source code is not allowed. Intermediate forms such as the output of a preprocessor or translator are not allowed.
+
+ 3. Derived Works: The license must allow modifications and derived works, and must allow them to be distributed under the same terms as the license of the original software.
+
+ 4. Integrity of The Author's Source Code: The license may restrict source-code from being distributed in modified form only if the license allows the distribution of "patch files" with the source code for the purpose of modifying the program at build time. The license must explicitly permit distribution of software built from modified source code. The license may require derived works to carry a different name or version number from the original software.
+
+ 5. No Discrimination Against Persons or Groups: The license must not discriminate against any person or group of persons.
+
+ 6. No Discrimination Against Fields of Endeavor: The license must not restrict anyone from making use of the program in a specific field of endeavor. For example, it may not restrict the program from being used in a business, or from being used for genetic research.
+
+ 7. Distribution of License: The rights attached to the program must apply to all to whom the program is redistributed without the need for execution of an additional license by those parties.
+
+ 8. License Must Not Be Specific to a Product: The rights attached to the program must not depend on the program's being part of a particular software distribution. If the program is extracted from that distribution and used or distributed within the terms of the program's license, all parties to whom the program is redistributed should have the same rights as those that are granted in conjunction with the original software distribution.
+
+ 9. License Must Not Restrict Other Software: The license must not place restrictions on other software that is distributed along with the licensed software. For example, the license must not insist that all other programs distributed on the same medium must be open-source software.
+
+ 10. License Must Be Technology-Neutral: No provision of the license may be predicated on any individual technology or style of interface.
+* "Open Source" perhaps more successful term
+* "Open Source" perhaps more successful term
+** prevalence of "open source" due to the linux model
+* "Open Source" perhaps more successful term
+** prevalence of "open source" due to the linux model
+
+The early growth of Linux synergized with another phenomenon: the
+public discovery of the Internet. The early 1990s also saw the
+beginnings of a flourishing Internet-provider industry, selling
+connectivity to the public for a few dollars a month. Following the
+invention of the World Wide Web, the Internet's already rapid
+growth accelerated to a breakneck pace.
+
+-- Eric Raymond, "The Cathedral and the Bazaar" 		      
+* The Cathedral and the Bazaar
+* The Cathedral and the Bazaar
+** Cathedral model
+* The Cathedral and the Bazaar
+** Cathedral model
+
+   Until the Linux development, everyone believed that any software as
+   complex as an operating system had to be developed in a carefully
+   coordinated way by a relatively small, tightly-knit group of people.
+   This model was and still is typical of both commercial software and
+   the great free-software cathedrals built by the Free Software
+   Foundation in the 1980s
+
+   -- Eric Raymond, "The Cathedral and the Bazaar" 		      
+* The Cathedral and the Bazaar
+** Bazaar model
+* The Cathedral and the Bazaar
+** Bazaar model
+
+   Linux evolved in a completely different way. From nearly the
+   beginning, it was rather casually hacked on by huge numbers of
+   volunteers coordinating only through the Internet. Quality was
+   maintained not by rigid standards or autocracy but by the naively
+   simple strategy of releasing every week and getting feedback from
+   hundreds of users within days, creating a sort of rapid Darwinian
+   selection on the mutations introduced by developers.
+   
+   -- Eric Raymond, "The Cathedral and the Bazaar" 		      
+* ideological differences
+* ideological differences
+  Open source is a development methodology; free software is a social
+  movement.
+
+  For the free software movement, free software is an ethical
+  imperative, essential respect for the users' freedom. By contrast, the
+  philosophy of open source considers issues in terms of how to make
+  software “better”—in a practical sense only. It says that nonfree
+  software is an inferior solution to the practical problem at hand.
+  Most discussion of “open source” pays no attention to right and wrong,
+  only to popularity and success.
+  
+  -- Richard M Stallman,
+  "http://www.gnu.org/philosophy/open-source-misses-the-point.html"
+
+* two movements, but similar outcomes
+* two movements, but similar outcomes
+  The two terms describe almost the same category of software, but they
+  stand for views based on fundamentally different values. 
+  
+  -- Richard M Stallman,
+  "http://www.gnu.org/philosophy/open-source-misses-the-point.html"
+* two movements, but similar outcomes
+
+  We disagree with the open source camp on the basic goals and values,
+  but their views and ours lead in many cases to the same practical
+  behavior—such as developing free software.
+
+  As a result, people from the free software movement and the open
+  source camp often work together on practical projects such as software
+  development. It is remarkable that such different philosophical views
+  can so often motivate different people to participate in the same
+  projects. 
+
+  -- Richard M Stallman,
+  "http://www.gnu.org/philosophy/open-source-misses-the-point.html"
+
+* the appeal for artists
+* the appeal for artists
+** - personal rather than financial investment
+* the appeal for artists
+** - personal rather than financial investment
+** - freedom, control, ownership
+* the appeal for artists
+** - personal rather than financial investment
+** - freedom, control, ownership
+** - community, collaboration, non-hierarchical
+* the appeal for artists
+** - personal rather than financial investment
+** - freedom, control, ownership
+** - community, collaboration, non-hierarchical
+** - technology does make possible things we may be interested in
+* caveats and challenges
+* caveats and challenges
+** - tradeoff of greater control vs. less responsibility
+* caveats and challenges
+** - tradeoff of greater control vs. less responsibility
+** - fewer "training wheels"
+* caveats and challenges
+** - tradeoff of greater control vs. less responsibility
+** - fewer "training wheels"
+** - eventually requires experience with "the command line"
+* making the transition
+* making the transition
+** - begin learning about and using free software packages
+* learning to contribute
+* learning to contribute
+** - find helpful voices--like this one--to help guide
+* learning to contribute
+** - find helpful voices--like this one--to help guide
+** - FOSS media arts guide on github
+https://github.com/cicerojones/FOSS-media-arts-guide
+
+http://pima-mfa.wikispaces.com/Independent+Projects+FALL+2013
+
+http://pima-mfa.wikispaces.com/orzo-independent-projects
+
+* learning to contribute
+** - find helpful voices--like this one--to help guide
+** - FOSS media arts guide on github
+https://github.com/cicerojones/FOSS-media-arts-guide
+
+http://pima-mfa.wikispaces.com/Independent+Projects+FALL+2013
+
+http://pima-mfa.wikispaces.com/orzo-independent-projects
+
+** - practice your "forking" and making pull requests
+* learning to contribute
+** - find helpful voices--like this one--to help guide
+** - FOSS media arts guide on github
+https://github.com/cicerojones/FOSS-media-arts-guide
+
+http://pima-mfa.wikispaces.com/Independent+Projects+FALL+2013
+
+http://pima-mfa.wikispaces.com/orzo-independent-projects
+
+** - practice your "forking" and making pull requests
+   - this is the process by which contributions get debated and
+     approved on Github
+
+* learning to contribute
+** - find helpful voices--like this one--to help guide
+** - FOSS media arts guide on github
+https://github.com/cicerojones/FOSS-media-arts-guide
+
+http://pima-mfa.wikispaces.com/Independent+Projects+FALL+2013
+
+http://pima-mfa.wikispaces.com/orzo-independent-projects
+
+** - practice your "forking" and making pull requests
+   - this is the process by which contributions get debated and
+     approved on Github
+   - requires learning a little about Git
+* RMS says "Go Fork and Pull!"
+[[file:~/Downloads/saintignucius.jpg]]

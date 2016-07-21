@@ -1,0 +1,309 @@
+* text
+** three questions
+ So there are three basic questions that I want to pose, and I will
+ structure my talk acccording to these three general ideas. 
+
+ Since I propose talking about free and open source software we should
+ first ask, what are those terms exactly and what do they mean?
+
+ The second set of questions will be about who coined these terms and
+ what were they thinking, what was their experience and what do
+ they believe?
+ 
+ And then finally we can ask questions about what this mean to us as
+ artists; where do we come into this?
+
+ Now, I'll make some assumptions about what is and isn't common
+ knowledge about all this stuff for us here as artists. If anybody is
+ very familiar with all this and it all seems quite obvious or
+ overly-general, I beg you to bear with me. I'll begin by addressing
+ what the terms are and what they mean.
+
+** free beer
+ We might observe that free software is perhaps more generic sounding,
+ or capable of meaning more than one thing. But in fact, it refers to
+ something quite powerful.
+
+ The classic explanation is that free software means free as in
+ freedom, not as in beer. This kind of humorously and nicely summarizes
+ the idea that free software is software which provides the user with
+ certain freedoms. It "respects your freedom." What exactly that means
+ we'll get to.
+
+ The term open source software, which perhaps is more familar as a
+ phrase, has a slightly different lineage. It shares the same basic
+ roots as free software, but it was coined more recently, and we might
+ say it has been more widely embraced (or at least the slightly
+ nebulous word "open" has made inroads into a lot of domains at some
+ remove from software development).
+
+ In this case, we might note that open source software features the
+ word "source," which refers to "source code." This refers to the basic
+ underlying details that were in most cases written by a programmer or
+ team of programmers, and that are responsible for a given application
+ or piece of software we may be interested in using. So in the case of
+ the term "open source software," I think it's fair to say that we are
+ drawing our attention to computer code, and "open" here most
+ explicitly refers to our ability to view and use the code that
+ underlies whatever particular software application we happen to use.
+
+ So just what are the differences between these two things, these two
+ ways of talking about software? Which word should we use? Suffice it
+ to say these are slightly vexed questions.
+
+ To begin answering them and thinking more deeply about free and open
+ source software, I'll have to talk primarily about two people or two
+ movements.
+** FSF
+ The first and earliest of those I'll refer to simply as the free
+ software movement, whose values and principles are outlined by the
+ Free Software Foundation, which is largely responsible for something
+ called GNU, like the animal, which name involves geeky humor I'll
+ spare you all for the moment.
+
+ The Free Software Foundation was started by and largely embodies the
+ thinking of an influential programmer named Richard M Stallman RMS.
+
+ The Free Software movement as such largely began with him in the early
+ 80s, and it was based on his experience as an early hacker, when that
+ term had only real one meaning, (now we have more meanings). Having
+ been an early participant in the compartively open or idealistic
+ academic computing scene of MIT in the 70s, he eventually experienced
+ a trend away from the sharing of software that had prevailed up to
+ that point, when people and institutions (and companies such as AT&T)
+ began working on more closed, proprietary systems.
+
+ This trend disturbed Stallman and he began working on a way to remedy
+ what he saw going on across industry and the academy. Aside from
+ practical work as a programmer building what would be called GNU (and
+ which formed the basis for what we typically call Linux, or if we are
+ feeling perverse and persnickety, GNU/Linux, today), he perhaps just
+ as importantly began advocating for what he called the four essential
+ freedoms.
+
+ What are those four freedoms? (numbered starting at zero, according
+ for reasons, again, too geeky to mention)
+
+ (0) to run the program, 
+ (1) to study and change the program in source
+ code form, 
+ (2) to redistribute exact copies, and 
+ (3) to distribute
+ modified versions.
+
+
+ While that may not sound particularly inspiring or revolutionary,
+ except in a sort of gnomic, geeky way, it has important repercussions
+ for us today. But what does it have to do with open source software?
+
+** OSI
+ The "open source software" movement also has a set of inviolable
+ tenets, though they are 10 in number, and rather more legalistic in
+ tone, and I will spare you an exact accounting of them. In effect,
+ they are quite similar to the principles laid out by the Free Software
+ Foundation. However, I'll mention that the term "open-source" has, for
+ better or for worse, perhaps had more currency than "free." This may
+ have something to do with the nature of the software world that
+ spawned the organization promoting OSS (as opposed to free software),
+ the OSI.( As an aside, the software world that spawned the OSI was, in
+ essence the flowering Internet and World Wide Web of the mid-90s and
+ early 2000s.) In particular, as a complement to the four freedoms
+ outlined above, I will point out a model that embodies principles of
+ the OSS movement.
+
+** CATB
+ That model that is most famously described in a book by the author and
+ hacker Eric Raymond called "The Cathedral and the Bazaar."
+
+ Here he outlines two models or paradigms that serve as analogies for
+ software development of the time. There is the making of the
+ cathedral, which is a monolithic undertaking, a centrally located
+ building, with a kind of hierarchal system that nevertheless does rely
+ on the whole community to build it.
+
+ That model contrasts with that of the bazaar, which we might think of
+ more as a busy marketplace--or as Raymond puts it "a great babbling
+ bazaar of differing agendas and approaches." What the details are as
+ regards software development I'll pass over for the moment, except to
+ say that we might characterize the bazaar approach that built the
+ Linux side of the GNU/Linux system as more open-ended interactions and
+ a wider, looser network of intersecting interests. Raymond's
+ description, which dates from 2000, still basically applies today.
+
+** two movements?
+ So to review a bit. It appears that there are two movements, which may
+ be a bit confusing. In fact, there really is one approach, which we
+ may kind of laboriously call Free and Open Source Software
+ development, in which rather than one central person or company
+ controlling all aspects of the software a group (often of volunteers)
+ collectively builds and maintains software in a transparent fashion
+ that respects your freedom.
+
+ What's significant though, and this is especially the case for Richard
+ Stallman, who is perhaps the more radical of the two figures is that
+ we highlight different, is that using the term free software
+ highlights the fact that we believe in freedom, the freedom to modify
+ control what it is we do in a way that we see fit. And just as
+ importantly, we respect the freedoms of others to do just the same.
+
+  the term may have had something to do with a effective free for
+  companies and a lot of the organizations that run things are
+  businesses that money in the word free makes people uncomfortable 
+
+  in that it perhaps suggests that you can't make money 
+  it's kind of a public relations issue 
+  and it just so happens that open source became more popular 
+
+  perhaps as a term but also significantly because there was a slightly
+  different model that we should pay attention to
+
+** artists
+
+ So, do these models may appeal to us as artists for a variety of
+ reason; where do we come into things?
+
+ The first thing that is easy to free software does typically come
+ without a price tag, which is a boon to anyone with a limited budget.
+
+ Now, this doesn't mean that we can't contribute money to people who
+ are responsible for creating and maintaining these projects. Making
+ donations is one way to show our support for various projects--in a
+ way perhaps akin to public broadcasting.
+
+ But more importantly, there's a general attitude towards control and
+ ownership in these movements that should resonate with us as artists.
+ There's a kind of political or philosophical motivation here that we
+ should be aware of, and perhaps even inspired by.
+
+ Suffice it to say that open source and free software both have at
+ their center some notion of personal freedom that we as artists might
+ relate to. The fact that we don't pay for it is really just one small
+ part of the larger picture, which is that we are concerned with the
+ greater good of humanity, which we as artists may also ostensibly be
+ working on in our own ways.
+
+ The fact that it also reflects a model of collaboration that we as
+ artists recognize and work with just dovetails even that much more
+ nicely with our values. It seems fitting that software that we use
+ would reflect the ways that we ourselves work, as we adopt more
+ distributed and nonhierarchical approaches.
+
+ Now, I think I have hinted at how the values that are defined in these
+ communities do to a great extent reflect probably our own values, but
+ I might also add a more pratical, and self-interested note. That the
+ technologies these people are working on often happen to be, actually,
+ quite exciting in and of themselves, and it might interest us, just as
+ curious creators, to know what exactly is going on in these worlds,
+ and to consider how we might take advantage of it.
+** caveats
+ Now all of that's not to say that there are not some caveats here.
+
+ Most obviously, with more control comes more responsibility. In many
+ cases, proprietary software has conditioned us to be somewhat
+ incurious and ultimately even helpless, especially when things go
+ wrong (A common joke "algorithm" among free software users is "Google the
+ error message"). Typically, open source software has fewer "training
+ wheels;" we have to become more sophisticated computer users. This is
+ probably not a bad thing, as the 21st Century progresses.
+
+ However, it does means that we probably need to make a gradual
+ transition towards a more free and open system, a transition that is
+ supported by good tutorials and walkthroughs and almost inordinate
+ amounts of patience.
+
+ The transition from proprietary systems to open source software
+ systems may not in the long run result in our adopting the radical
+ stance exemplified by Richard Stallman; in practice we may choose to
+ exist in an between space where we adopt more more open source over
+ time in order to accomplish the task that we need.
+
+** the transition
+ But regardless, in order to make that transition we do need to have a
+ deeper understanding of how to use this stuff.
+
+ So rather than take the time to outline exactly how to do all that
+ here, I'm just going to draw attention to a document that I've
+ created at the end of my time at PIMA that outlined many of the
+ individual kinds of software that I used or learned about, as well as
+ many of the issues, both philosophical and conceptual, that arose
+ during my time.
+
+ In some cases working with this stuff is/was straightforward, just
+ like downloading any piece of software. But in other cases there's a
+ finer control available to us that demands we develop certain skills
+ in order to download and especially to eventually contribute our own
+ ideas.
+
+** contributing
+ And in order to do that I am suggesting that everybody who is
+ interested in what I've talked about here use this document, which is
+ hosted on Github, as a practice terrain for contributing to open
+ source projects. In this case, it won't so much be actual source code
+ that you would be modifying, but regular English language text (that
+ is in a kind of special, "markup language"). So this could be
+ correcting typos and other editing, adding new software that I haven't
+ mentioned, or fleshing out or re-organizing chunks of text. I look
+ forward to helping you navigate your own path, and I hope this has
+ been a helpful step along the way.
+
+
+* outline
+** title							  :slideset1:
+Re:source--Broke Artists and Free Software
+** overview of three questions				   :track1:slideset2:
+*** what are the terms and what do they mean?
+*** who coined these terms and what do these people believe?
+*** where do we as artists come into play?
+** question 1 free (vs. open)				   :track2:slideset3:
+*** free beer/freedom
+   - GNU site prominently features a "Philosophy" section
+
+*** "source code"
+  - the ideological concerns, though not completely absent, are not foregrounded
+  - there was a concern that 'free' was potentially confusing
+
+*** which should we use--it's a personal decision;
+ - based on context
+   - "Free and Open Source Software" or FOSS is an--slightly funny--catchall,
+     as is FLOSS
+ - or don't really worry about it for now
+** FSF							   :track3:slideset4:
+*** free software in the 70s and 80s
+*** four freedoms
+(0) to run the program, (1) to study and change the program in source
+code form, (2) to redistribute exact copies, and (3) to distribute
+modified versions.
+
+
+1. 
+2. 
+3. 
+4. 
+** OSI							   :track4:slideset5:
+*** Principles
+*** perhaps more successful term
+** two movements, two similar models but one way forward	     :track5:
+*** general agreement between outcomes
+*** ideological differences
+*** prevalence of "open source" due to the linux model
+** Eric Raymond and CATB 					     :track6:
+*** Catherdral model
+*** Bazaar model
+** the appeal for artists					     :track7:
+*** personal rather than financial investment
+*** freedom, control, ownership
+*** community, collaboration, non-hierarchical
+*** technology does make possible things we may be interested in
+** caveats and challenges					     :track8:
+*** tradeoff of greater control vs. less responsibility
+*** fewer "training wheels"
+*** eventually requires experience with "the command line"
+** making the transition					     :track9:
+*** begin learning about and using free software packages
+** learn and contribute						    :track10:
+*** FOSS media arts guide on github
+**** find helpful voices--like this one--to help guide
+**** practice forking and making pull requests
+
+
+
