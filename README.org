@@ -1,0 +1,1 @@
+* Prefer org-mode readme for an org-centric document!
