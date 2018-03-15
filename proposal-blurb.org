@@ -1,0 +1,57 @@
+* PIMA Symposium paper proposal abstract
+Will Orzo
+PIMA ‘13
+Brooklyn, NY
+Re:source­­Broke Artists and Free Software
+The goal of this paper is to provide some insights into the world of free, "open source"
+software. While much has already been published about this topic, there are relatively few
+such examples that are tailored to interactive media and performance artists, many of whom
+are familiar with the term “open source” and may have used free software applications such
+as Mozilla Firefox or Pure Data. But in order to understand what the term really signifies­­and
+why artists should care­­we may need some background. Ultimately, we will seek to show
+how resources­limited artists can benefit from (and contribute to!) the collective work of the
+thousands of volunteers who develop these software packages.
+We will first offer a brief history of the "free software movement" and examine some of the key
+figures and debates within it, in particular the subtle differences between “free” and “open
+sourcepaying special attention to the odd marriage of pragmatism and lofty philosophical
+ideals that has characterized software developers since the early days of computing. We will
+consider the current state of "open source culture" and how its values and methods may
+resonate with those of contemporary media artists. Finally, we look at the practical matter of
+participating in this vast, decentralized world, and argue for the role that it should play in our
+training as artists of the 21st Century. We have nothing to lose but our ignorance and
+proprietary software licenses!
+Will Orzo has an Master of Fine Arts from Brooklyn College’s Performance and Interactive Media Arts
+program, and a Bachelor of Music from Queens College’s Aaron Copland School of Music. A co­founder of
+NYC band The Woes, he has worked as a musician and performance artist with everyone from postmodern
+dance pioneer Yvonne Rainer to gospel groups throughout Brooklyn. He is a recent alum of Hacker School,
+a workshop and retreat for elite programmers in New York City.
+
+The goal of this paper is to provide some insight into the world of free, "open source"
+software. While much has already been published about this topic, there are relatively few
+such examples that are tailored to interactive media and performance artists, many of whom
+are familiar with the term “open source” and may have used free software applications such
+as Mozilla Firefox or Pure Data. But in order to understand what the term really signifies­­and
+why artists should care­­we may need some background. Ultimately, we will seek to show
+how resources­limited artists can benefit from (and contribute to!) the collective work of the
+thousands of volunteers who develop these software packages.
+We will first briefly describe the history of the "free software movement" and discuss some of
+the key figures and debates within it. Examining the subtle differences between “open source"
+and free” software will offer a glimpse at the odd marriage of pragmatism, on the one hand,
+and lofty philosophical ideals, on the other, that has characterized software developers since
+the early days of computing. We will consider the larger ramifications of "open source culture”
+in general, and how the values and methods of technologists such as Richard Stallman and
+Jaron Lanier may resonate with those of contemporary media artists. Finally, we look at the
+practical matter of participating in this vast, decentralized world, and argue for the role that it
+should play in our training as artists of the 21st Century. We have nothing to lose but our
+ignorance and proprietary software licenses!
+Will Orzo has an Master of Fine Arts from Brooklyn College’s Performance and Interactive
+Media Arts program, and a Bachelor of Music from Queens College’s Aaron Copland School
+of Music. A co­founder of NYC band The Woes, he has worked as a musician and
+performance artist with everyone from postmodern dance pioneer Yvonne Rainer to gospel
+groups throughout Brooklyn. He is a recent alum of Hacker School, a workshop and retreat for
+elite programmers in New York City.
+topics and terms
+version control
+distributed vs. centralized version control
+github
+
